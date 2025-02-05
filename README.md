@@ -9,3 +9,6 @@ Installation Instructions:
 2. Log into Site as Admin user and go to site-administration -> Notification to perform installation.
 3. After successful installation, you would find a new custom profile field type inside site administration -> user -> accounts -> user profile fields
 4. Enjoy this new feature.
+
+About
+Initial codebase developed with the financial support of the Direction de l'Administration et de la Fonction Publique (DGAFP) for the Miistèer de l'Action publique, de la Fonction publique et de la Simplification (french ministry of public service) in the context of the Mentor initiative.
